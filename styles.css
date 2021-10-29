@@ -1,0 +1,123 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+}
+
+a {
+    text-decoration: none;
+}
+
+.img-yoga {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+.input-email {
+    display: block;
+    margin: 122px auto 21px auto;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border: none;
+}
+
+.input-email::placeholder {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    margin: 15px 0 14px 20px;
+    padding-left: 19px;
+}
+
+.input-password {
+    display: block;
+    margin: 21px auto 35px auto;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border: none;
+}
+
+.input-password::placeholder {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    margin: 15px 0 14px 20px;
+    padding-left: 19px;
+}
+
+.forgot-password {
+    display: block;
+    margin: 35px 38px 38px 0;
+    text-align: right;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
+
+button {
+    background: #323232;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    display: block;
+    margin: 38px auto 21px auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.sign-up {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+    display: block;
+    margin-top: 21px;
+    margin-bottom: 62px;
+    text-align: center;
+    text-decoration: none;
+}
+
+strong {
+    color: #323232;
+}
+
+p {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+}
+
+.box-link {
+    display: block;
+    text-align: center;
+    margin: 30px auto 80px auto;
+}
+
+.img-link {
+    margin: 0 18px;
+}
