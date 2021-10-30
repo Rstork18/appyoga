@@ -1,8 +1,7 @@
 # appyoga
 
  Esse é o Yoga App -- this is the Yoga App
-
- this is the Yoga App -- https://appyoga.netlify.app/
+     https://appyoga.netlify.app/
 
 For a better view, use the mobile browsing mode.
 if you need help use this link:
