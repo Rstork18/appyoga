@@ -24,6 +24,7 @@ a {
     border-radius: 10px;
     box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
     border: none;
+    padding: 20px;
 }
 
 .input-email::placeholder {
@@ -46,6 +47,7 @@ a {
     border-radius: 10px;
     box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
     border: none;
+    padding: 20px;
 }
 
 .input-password::placeholder {
